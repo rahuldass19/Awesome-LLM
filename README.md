@@ -396,6 +396,7 @@
 - [Datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [Dingo](https://github.com/DataEval/dingo) - Dingo: A Comprehensive Data Quality Evaluation Tool
 - [FastDatasets](https://github.com/ZhuLinsen/FastDatasets) - A powerful tool for creating high-quality training datasets for Large Language Models
+- [QWED](https://github.com/QWED-AI/qwed-verification) - Deterministic verification protocol for LLM outputs using 8 specialized engines (math, logic, code, SQL, facts, images). Prevents hallucinations through formal verification.
 
 ## LLM Evaluation:
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
